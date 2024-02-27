@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SekjtVfpC9No1fqo6+RjDgnkbLfoNlLZ3lug2caTO5cdY3TrTrV/LmDGbxUSDS69j0SiulHkJpze6UsHTrkkZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tanlx\\Documents\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanlx\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tanlx\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\tanlx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
